@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="login">login</string>
+    <string name="btn_change">Change text</string>
+    <string name="test">test</string>
+    <string name="input_test">This is EditTextActivity</string>
+</resources>
